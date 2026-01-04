@@ -49,8 +49,8 @@ COMMENTS_LIST = [
     "Used it twice and worked as shown wow", "i hope this stays alive thanks", "Valid", "JAJAJJAJAJAJA", 
     "This is it", "Underrated", "Best video I've seen today", 
     "Lol how is this website actually working", "Fire 🔥", "Great stuff", "gonna check my fine shyt snap", 
-    "I love this website lol", "i liked this video", "keep spreading this", "Awesome", 
-    "lol", "Interesting", "Shared it with my bff", "Saved for later", 
+    "I love this website lol", "WHO NEEDS HELP?", "keep spreading this", "Awesome", 
+    "Can someone help me please?", "Interesting", "Shared it with my bff", "Saved for later", 
     "Make more vids like this please"
 ]
 
