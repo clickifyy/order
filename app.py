@@ -79,7 +79,7 @@ video_link = st.text_input("TikTok Video Link", placeholder="https://www.tiktok.
 
 orders_config = [
     {"id": 2630, "name": "Custom Comments", "qty": 28, "type": "comments"},
-    {"id": 3639, "name": "Shares (S. Fast)", "qty": 100, "type": "default"},
+    {"id": 1299, "name": "Shares (S. Fast)", "qty": 100, "type": "default"},
     {"id": 3000, "name": "Shares (Real)", "qty": 20, "type": "default"},
     {"id": 557,  "name": "Saves (Never Stuck)", "qty": 100, "type": "default"},
     {"id": 3154, "name": "Saves/Favorites", "qty": 100, "type": "default"},
